@@ -3,26 +3,14 @@
     "name":"Benjamin Taylor",
     "occupation":"Information Technology",
     "description":"I have a great passion for computer work, including the analysis of computer systems. I am always looking to continue learning, and am a quick study in new endeavors.",
-    "image":"profilepic.jpg",
     "bio":"My start in IT was at an MSP. From there I worked in the rigid realm of healthcare IT systems and discovered my passion for cybersecurity. I enjoy completing CTF challenges and learning in my homelab environment.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "btaylor280[at]gmail.com",
     "phone": "516-715-1997",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://benjamintaylor.me/file",
     "social":[
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/freshicet",
         "className":"fa fa-github"
       }
       
@@ -34,8 +22,7 @@
       {
         "school":"Missouri Southern State University",
         "degree":"Bachelor of Science Degree in Criminal Justice",
-        "graduated":"May 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated":"May 2013"
       }
     ],
     "work":[
