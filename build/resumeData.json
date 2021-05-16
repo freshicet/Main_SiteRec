@@ -1,44 +1,53 @@
 {
-  "main": {
-    "name":"Benjamin Taylor",
-    "occupation":"Information Technology",
-    "description":"I have a great passion for computer work, including the analysis of computer systems. I am always looking to continue learning, and am a quick study in new endeavors.",
-    "bio":"My start in IT was at an MSP. From there I worked in the rigid realm of healthcare IT systems and discovered my passion for cybersecurity. I enjoy completing CTF challenges and learning in my homelab environment.",
-    "email": "btaylor280[at]gmail.com",
-    "phone": "516-715-1997",
-    "resumedownload":"https://benjamintaylor.me/file",
-    "social":[
-      {
-        "name":"github",
-        "url":"https://github.com/freshicet",
-        "className":"fa fa-github"
-      }
-      
-    ]
-  },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"Missouri Southern State University",
-        "degree":"Bachelor of Science Degree in Criminal Justice",
-        "graduated":"May 2013"
-      }
-    ],
-    "work":[
-      {
-        "company":"High Plains Mental Health Center",
-        "title":"Information Technology Specialist",
-        "years":"Jun 2019 - Present",
-        "description":"Analyzes, operates, administers, maintains, tests, and implements the network interconnection of devices, systems and communication services to meet the functional objectives of the Center.  Responsible for all aspects of the Tele-video network, VOIP telephone system, computer network including internet, and local area network."
-      },
-      {
-        "company":"Eagle Technology Solutions",
-        "title":"Service Technician",
-        "years":"Jun. 2018 – Jun. 2019",
-        "description":" Proactively maintain clients’ computer environments by analyzing requirements, resolving problems, and installing hardware and software solutions. "
-      }
-    ]
-    
-  }
+	"main": {
+		"name": "Benjamin Taylor",
+		"occupation": "Information Technology",
+		"description": "I have a great passion for computer work, including the analysis of computer systems. I am always looking to continue learning, and am a quick study in new endeavors.",
+		"bio": "My start in IT was at an MSP. From there I worked in the rigid realm of healthcare IT systems and discovered my passion for cybersecurity. I enjoy completing CTF challenges and learning in my homelab environment.",
+		"email": "btaylor280[at]gmail.com",
+		"phone": "516-715-1997",
+		"resumedownload": "https://benjamintaylor.me/file",
+		"social": [
+			{
+				"name": "github",
+				"url": "https://github.com/freshicet",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+		"education": [
+			{
+				"school": "Missouri Southern State University",
+				"degree": "Bachelor of Science Degree in Criminal Justice",
+				"graduated": "May 2013"
+			},
+			{
+				"school": "University of Kansas",
+				"degree": "Cybersecurity Boot Camp",
+				"graduated": "Sep 2021"
+			}
+		],
+		"work": [
+			{
+				"company": "CivicPlus",
+				"title": "Technical Support Engineer I",
+				"years": "April 2021 - Present",
+				"description": "Assisted customers with more difficult technical issues requiring a greater level of personalized care and in greater length. Coordinated with Level 1 technical support specialists to take over calls outside their level of support."
+			},
+			{
+				"company": "High Plains Mental Health Center",
+				"title": "Information Technology Specialist",
+				"years": "Jun 2019 - April 2021",
+				"description": "Analyzes, operates, administers, maintains, tests, and implements the network interconnection of devices, systems and communication services to meet the functional objectives of the Center.  Responsible for all aspects of the Tele-video network, VOIP telephone system, computer network including internet, and local area network."
+			},
+			{
+				"company": "Eagle Technology Solutions",
+				"title": "Service Technician",
+				"years": "Jun. 2018 – Jun. 2019",
+				"description": " Proactively maintain clients’ computer environments by analyzing requirements, resolving problems, and installing hardware and software solutions. "
+			}
+		]
+	}
 }

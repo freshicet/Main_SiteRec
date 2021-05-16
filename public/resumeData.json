@@ -22,6 +22,11 @@
 				"school": "Missouri Southern State University",
 				"degree": "Bachelor of Science Degree in Criminal Justice",
 				"graduated": "May 2013"
+			},
+			{
+				"school": "University of Kansas",
+				"degree": "Cybersecurity Boot Camp",
+				"graduated": "Sep 2021"
 			}
 		],
 		"work": [
@@ -29,7 +34,7 @@
 				"company": "CivicPlus",
 				"title": "Technical Support Engineer I",
 				"years": "April 2021 - Present",
-				"description": "Provides exceptional customer service and technical support for all CivicPlus products. CivicPlus uses email, support tickets, live chat, and phone call-based channels to provide world class support and customer service to clients. The Software Support Engineer (I) must be able to communicate effectively and provide technical solutions across all channels of client inquiry."
+				"description": "Assisted customers with more difficult technical issues requiring a greater level of personalized care and in greater length. Coordinated with Level 1 technical support specialists to take over calls outside their level of support."
 			},
 			{
 				"company": "High Plains Mental Health Center",
