@@ -2,6 +2,7 @@ var fs = require('fs');
 var http = require('http');
 var https = require('https');
 
+//Keys for letsencrypt
 var privateKey = fs.readFileSync(
 	'/etc/letsencrypt/live/benjamintaylor.me/privkey.pem',
 	'utf8'
@@ -17,16 +18,17 @@ var app = express();
 const path = require('path');
 
 app.use(express.static(path.join(__dirname, 'build')));
-
+//Main Page
 app.get('/', function (req, res) {
 	res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
-
+//Page for Resume
 app.get('/file', function (req, res) {
 	res.download(__dirname + '/Resume.pdf', 'Resume.pdf');
 });
 
 //404 page
+//Rick_Roll
 app.get('*', function (req, res) {
 	res.redirect('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
 });
