@@ -27,20 +27,18 @@ class Resume extends Component {
 					</div>
 				);
 			});
-			var skillmessage = this.props.data.skillmessage;
-			//var testcert = this.props.data.testcert;
-			// console.log(certificate);
-			// var certificate = this.props.data.certificate.map(function (certificate) {
-			// 	return (
-			// 		<div key={certificate.title}>
-			// 			<h3>{certificate.title}</h3>
-			// 			<p className='info'>
-			// 				<span>&bull;</span> <em className='date'>{certificate.years}</em>
-			// 			</p>
-			// 			<p>{certificate.description}</p>
-			// 		</div>
-			// 	);
-			// });
+
+			var certificate = this.props.data.certificate.map(function (certificate) {
+				return (
+					<div key={certificate.title}>
+						<h3>{certificate.title}</h3>
+						<p className='info'>
+							<span>&bull;</span> <em className='date'>{certificate.years}</em>
+						</p>
+						<p>{certificate.description}</p>
+					</div>
+				);
+			});
 		}
 
 		return (
@@ -73,7 +71,7 @@ class Resume extends Component {
 							<span>Certificate</span>
 						</h1>
 					</div>
-					<div className='nine columns main-col'>{skillmessage}</div>
+					<div className='nine columns main-col'>{certificate}</div>
 				</div>
 			</section>
 		);

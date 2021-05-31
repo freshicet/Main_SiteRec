@@ -52,9 +52,14 @@
 		],
 		"certificate": [
 			{
-				"title": "Technical Support Engineer I",
-				"years": "April 2021 - Present",
-				"description": "Assisted customers with more difficult technical issues requiring a greater level of personalized care and in greater length. Coordinated with Level 1 technical support specialists to take over calls outside their level of support."
+				"title": "Test CerT",
+				"years": "April 2021",
+				"description": "Test CerT information"
+			},
+			{
+				"title": "Test CerT2",
+				"years": "April 2021",
+				"description": "Test CerT information"
 			}
 		]
 	}

@@ -16,7 +16,8 @@
 		]
 	},
 	"resume": {
-		"skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+		"skillmessage": "skillmessage",
+		"testcert": "testcert",
 		"education": [
 			{
 				"school": "Missouri Southern State University",
@@ -47,6 +48,18 @@
 				"title": "Service Technician",
 				"years": "Jun. 2018 – Jun. 2019",
 				"description": " Proactively maintain clients’ computer environments by analyzing requirements, resolving problems, and installing hardware and software solutions. "
+			}
+		],
+		"certificate": [
+			{
+				"title": "Test CerT",
+				"years": "April 2021",
+				"description": "Test CerT information"
+			},
+			{
+				"title": "Test CerT2",
+				"years": "April 2021",
+				"description": "Test CerT information"
 			}
 		]
 	}
