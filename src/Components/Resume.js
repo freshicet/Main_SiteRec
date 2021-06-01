@@ -35,7 +35,6 @@ class Resume extends Component {
 						<p className='info'>
 							<span>&bull;</span> <em className='date'>{certificate.years}</em>
 						</p>
-						<p>{certificate.description}</p>
 					</div>
 				);
 			});

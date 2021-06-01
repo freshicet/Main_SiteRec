@@ -52,14 +52,9 @@
 		],
 		"certificate": [
 			{
-				"title": "Test CerT",
-				"years": "April 2021",
-				"description": "Test CerT information"
-			},
-			{
-				"title": "Test CerT2",
-				"years": "April 2021",
-				"description": "Test CerT information"
+				"title": "Advent of Cyber 2",
+				"years": "2020",
+				"description": "From tryhack.me "
 			}
 		]
 	}
