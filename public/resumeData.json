@@ -12,6 +12,11 @@
 				"name": "github",
 				"url": "https://github.com/freshicet",
 				"className": "fa fa-github"
+			},
+			{
+				"name": "Tryhackme",
+				"url": "https://tryhackme.com/p/freshicet",
+				"className": "fa fa-cloud"
 			}
 		]
 	},
@@ -53,8 +58,11 @@
 		"certificate": [
 			{
 				"title": "Advent of Cyber 2",
-				"years": "2020",
-				"description": "From tryhack.me "
+				"years": "12/2020"
+			},
+			{
+				"title": "CompTIA Security+ SY0-601",
+				"years": "Start of Oct"
 			}
 		]
 	}
