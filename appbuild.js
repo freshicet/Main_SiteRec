@@ -27,6 +27,12 @@ app.get('/file', function (req, res) {
 	res.download(__dirname + '/Resume.pdf', 'Resume.pdf');
 });
 
+//418 page
+//I'm a teapot
+app.get('/418', function (req, res) {
+	res.redirect('https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418');
+});
+
 //404 page
 //Rick_Roll
 app.get('*', function (req, res) {
