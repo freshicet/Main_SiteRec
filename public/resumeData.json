@@ -17,6 +17,11 @@
 				"name": "Tryhackme",
 				"url": "https://tryhackme.com/p/freshicet",
 				"className": "fa fa-cloud"
+			},
+			{
+				"name": "Keybase",
+				"url": "https://keybase.io/freshicet",
+				"className": "fa fa-key"
 			}
 		]
 	},
