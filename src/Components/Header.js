@@ -42,6 +42,11 @@ class Header extends Component {
 								Resume
 							</a>
 						</li>
+						<li>
+							<a className='smoothscroll' href='#certificate'>
+								Certificate
+							</a>
+						</li>
 					</ul>
 				</nav>
 
