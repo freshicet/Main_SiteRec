@@ -22,6 +22,11 @@
 				"name": "Keybase",
 				"url": "https://keybase.io/freshicet",
 				"className": "fa fa-key"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://linkedin.com/in/freshicet",
+				"className": "fa fa-linkedin-square"
 			}
 		]
 	},
