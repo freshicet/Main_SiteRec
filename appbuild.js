@@ -29,8 +29,16 @@ app.get('/file', function (req, res) {
 	res.download(__dirname + '/Resume.pdf', 'Resume.pdf');
 });
 
-app.use('/healthcheck', require('./healthcheck.routes'));
-
+//Page for health check
+app.get('/health', (req, res) => {
+	const data = {
+	  uptime: process.uptime(),
+	  message: 'Ok',
+	  date: new Date()
+	}
+  
+	res.status(200).send(data);
+  });
 //418 page
 //I'm a teapot
 app.get('/418', function (req, res) {
